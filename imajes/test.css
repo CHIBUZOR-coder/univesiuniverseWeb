@@ -1,0 +1,586 @@
+@media (min-width:321px) and (max-width:360px) {
+    .content {
+        min-height: 60vh;
+        width: 100%;
+        background-color: rgb(230, 232, 239);
+        justify-content: center;
+    }
+
+    .ani {
+
+        color: orangered;
+    }
+
+    .coa-div {
+        min-height: 80vh;
+
+    }
+
+    .coa {
+        margin-top: 6%;
+        padding-left: 1.5%;
+        text-align: left;
+        /* width: 30%; */
+        background-color: white;
+    }
+
+    .help {
+        margin: 2% 0 0 2%;
+    }
+
+
+    .goodpics {
+        width: 100%;
+    }
+
+
+    /* buttom-styling */
+    .coll {
+        padding-left: 4px;
+        display: flex;
+    }
+
+    .colll {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+
+    .down-headings {
+        color: white;
+
+    }
+
+    .list li {
+        list-style-type: none;
+
+    }
+
+    .list li a {
+        text-decoration: none;
+        color: white;
+
+    }
+
+    li a:hover {
+        transform: translateY(-10px);
+        /* background-color:rgb(156, 131, 131); */
+    }
+
+    .row-flex {
+        display: inline-flex;
+        gap: 8px;
+
+
+    }
+
+    .follow {
+        display: block;
+
+        width: 100%;
+    }
+
+    .ul-inline-block {
+
+        display: inline-block;
+    }
+
+    .navbar-toggler:hover {
+
+        background-color: rgb(156, 131, 131);
+        cursor: pointer;
+
+    }
+
+
+
+    .nav-link:hover {
+
+        font-size: 30px;
+    }
+
+
+
+    .list {
+        width: 55%;
+
+
+    }
+
+    .useful {
+
+
+        margin-left: 4%;
+    }
+
+    .listt {
+        width: 40%;
+    }
+
+
+
+    .bbv button {
+        margin: 12% 0 0 10%;
+        height: 5vh;
+    }
+
+
+    .ramre:hover {
+        background-color: #101011;
+    }
+
+
+
+
+
+
+
+    .content {
+        min-height: 60vh;
+        width: 100%;
+        background-color: rgb(230, 232, 239);
+        justify-content: center;
+    }
+
+    .ani {
+
+        color: orangered;
+    }
+
+    .coa-div {
+        min-height: 80vh;
+
+    }
+
+    .coa {
+        margin-top: 6%;
+        padding-left: 1.5%;
+        text-align: left;
+        /* width: 30%; */
+        background-color: white;
+    }
+
+    .help {
+        margin: 2% 0 0 2%;
+    }
+
+
+    .goodpics {
+        width: 100%;
+    }
+
+
+    /* buttom-styling */
+    .coll {
+        padding-left: 4px;
+        display: flex;
+    }
+
+    .colll {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .flexc {
+        width: 100%;
+        display: inline-flex;
+        background-color: rgb(32, 28, 28);
+        gap: 4%;
+        min-height: 230px;
+    }
+
+    .down-headings {
+        color: white;
+
+    }
+
+    .list li {
+        list-style-type: none;
+
+    }
+
+    .list li a {
+        text-decoration: none;
+        color: white;
+
+    }
+
+    li a:hover {
+        transform: translateY(-10px);
+        /* background-color:rgb(156, 131, 131); */
+    }
+
+    .row-flex {
+        display: inline-flex;
+        gap: 8px;
+
+
+    }
+
+    .follow {
+        display: block;
+
+        width: 100%;
+    }
+
+    .ul-inline-block {
+
+        display: inline-block;
+    }
+
+    .navbar-toggler:hover {
+
+        background-color: rgb(156, 131, 131);
+        cursor: pointer;
+
+    }
+
+
+
+    .nav-link:hover {
+
+        font-size: 30px;
+    }
+
+
+
+    .list {
+        width: 55%;
+
+
+    }
+
+    .useful {
+
+
+        margin-left: 4%;
+    }
+
+    .listt {
+        width: 40%;
+    }
+
+    .ramre {
+        position: absolute;
+        text-align: center;
+        height: 12vh;
+        width: 22vw;
+        margin: 22% 0 2% 5%;
+        box-shadow: 0 4px 8px rgba(233, 221, 221, 0.2);
+        width: 30vw;
+        height: 12vh;
+    }
+
+
+    .bbv button {
+        margin: 12% 0 0 4%;
+        height: 4vh;
+    }
+
+
+    .ramre:hover {
+        background-color: #101011;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (min-width:360.1px) and (max-width:391px) {
+    .content {
+        min-height: 60vh;
+        width: 100%;
+        background-color: rgb(230, 232, 239);
+        justify-content: center;
+    }
+
+    .ani {
+
+        color: orangered;
+    }
+
+    .coa-div {
+        min-height: 80vh;
+
+    }
+
+    .coa {
+        margin-top: 6%;
+        padding-left: 1.5%;
+        text-align: left;
+        /* width: 30%; */
+        background-color: white;
+    }
+
+    .help {
+        margin: 2% 0 0 2%;
+    }
+
+
+    .goodpics {
+        width: 100%;
+    }
+
+
+    /* buttom-styling */
+    .coll {
+        padding-left: 4px;
+        display: flex;
+    }
+
+    .colll {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .down-headings {
+        color: white;
+
+    }
+
+    .list li {
+        list-style-type: none;
+
+    }
+
+    .list li a {
+        text-decoration: none;
+        color: white;
+
+    }
+
+    li a:hover {
+        transform: translateY(-10px);
+        /* background-color:rgb(156, 131, 131); */
+    }
+
+    .row-flex {
+        display: inline-flex;
+        gap: 8px;
+
+
+    }
+
+    .follow {
+        display: block;
+
+        width: 100%;
+    }
+
+    .ul-inline-block {
+
+        display: inline-block;
+    }
+
+    .navbar-toggler:hover {
+
+        background-color: rgb(156, 131, 131);
+        cursor: pointer;
+
+    }
+
+
+
+    .nav-link:hover {
+
+        font-size: 30px;
+    }
+
+
+
+    .list {
+        width: 55%;
+
+
+    }
+
+    .useful {
+
+
+        margin-left: 4%;
+    }
+
+    .listt {
+        width: 40%;
+    }
+
+
+    .bbv button {
+        margin: 12% 0 0 10%;
+        height: 5vh;
+    }
+
+
+    .ramre:hover {
+        background-color: #101011;
+    }
+
+
+
+
+
+
+
+    .content {
+        min-height: 60vh;
+        width: 100%;
+        background-color: rgb(230, 232, 239);
+        justify-content: center;
+    }
+
+    .ani {
+
+        color: orangered;
+    }
+
+    .coa-div {
+        min-height: 80vh;
+
+    }
+
+    .coa {
+        margin-top: 6%;
+        padding-left: 1.5%;
+        text-align: left;
+        /* width: 30%; */
+        background-color: white;
+    }
+
+    .help {
+        margin: 2% 0 0 2%;
+    }
+
+
+    .goodpics {
+        width: 100%;
+    }
+
+
+    /* buttom-styling */
+    .coll {
+        padding-left: 4px;
+        display: flex;
+    }
+
+    .colll {
+        width: 95%;
+        padding-left: 2%;
+    }
+
+    .flexc {
+        width: 100%;
+        display: inline-flex;
+        background-color: rgb(32, 28, 28);
+        gap: 4%;
+        min-height: 240px;
+    }
+
+    .down-headings {
+        color: white;
+
+    }
+
+    .list li {
+        list-style-type: none;
+
+    }
+
+    .list li a {
+        text-decoration: none;
+        color: white;
+
+    }
+
+    li a:hover {
+        transform: translateY(-10px);
+        /* background-color:rgb(156, 131, 131); */
+    }
+
+    .row-flex {
+        display: inline-flex;
+        gap: 8px;
+
+
+    }
+
+    .follow {
+        display: block;
+
+        width: 100%;
+    }
+
+    .ul-inline-block {
+
+        display: inline-block;
+    }
+
+    .navbar-toggler:hover {
+
+        background-color: rgb(156, 131, 131);
+        cursor: pointer;
+
+    }
+
+
+
+    .nav-link:hover {
+
+        font-size: 30px;
+    }
+
+
+
+    .list {
+        width: 55%;
+
+
+    }
+
+    .useful {
+
+
+        margin-left: 4%;
+    }
+
+    .listt {
+        width: 40%;
+    }
+
+    .ramre {
+        position: absolute;
+        text-align: center;
+        height: 12vh;
+        width: 22vw;
+        margin: 22% 0 2% 5%;
+        box-shadow: 0 4px 8px rgba(233, 221, 221, 0.2);
+        width: 30vw;
+        height: 14vh;
+    }
+
+
+    .bbv button {
+        margin: 12% 0 0 4%;
+        height: 4vh;
+    }
+
+
+    .ramre:hover {
+        background-color: #101011;
+    }
+}
